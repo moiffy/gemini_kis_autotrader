@@ -1,0 +1,5 @@
+=== Price API Response ===
+{'rt_cd': '1', 'msg_cd': 'EGW00121', 'msg1': '유효하지 않은 token 입니다.'}
+
+=== OHLCV API Response ===
+{'rt_cd': '1', 'msg_cd': 'EGW00121', 'msg1': '유효하지 않은 token 입니다.'}
